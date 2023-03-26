@@ -1,0 +1,13 @@
+E:\ProjectKas\KaspayCode\V2\QRCodeForm-master\QRCodeForm\QRCodeForm\bin\Debug\QRCodeForm.exe.config
+E:\ProjectKas\KaspayCode\V2\QRCodeForm-master\QRCodeForm\QRCodeForm\bin\Debug\QRCodeForm.exe
+E:\ProjectKas\KaspayCode\V2\QRCodeForm-master\QRCodeForm\QRCodeForm\bin\Debug\QRCodeForm.pdb
+E:\ProjectKas\KaspayCode\V2\QRCodeForm-master\QRCodeForm\QRCodeForm\bin\Debug\QRCoder.dll
+E:\ProjectKas\KaspayCode\V2\QRCodeForm-master\QRCodeForm\QRCodeForm\bin\Debug\UnityEngine.dll
+E:\ProjectKas\KaspayCode\V2\QRCodeForm-master\QRCodeForm\QRCodeForm\obj\Debug\QRCodeForm.csproj.AssemblyReference.cache
+E:\ProjectKas\KaspayCode\V2\QRCodeForm-master\QRCodeForm\QRCodeForm\obj\Debug\QRCodeForm.MainForm.resources
+E:\ProjectKas\KaspayCode\V2\QRCodeForm-master\QRCodeForm\QRCodeForm\obj\Debug\QRCodeForm.Properties.Resources.resources
+E:\ProjectKas\KaspayCode\V2\QRCodeForm-master\QRCodeForm\QRCodeForm\obj\Debug\QRCodeForm.csproj.GenerateResource.cache
+E:\ProjectKas\KaspayCode\V2\QRCodeForm-master\QRCodeForm\QRCodeForm\obj\Debug\QRCodeForm.csproj.CoreCompileInputs.cache
+E:\ProjectKas\KaspayCode\V2\QRCodeForm-master\QRCodeForm\QRCodeForm\obj\Debug\QRCodeForm.csproj.CopyComplete
+E:\ProjectKas\KaspayCode\V2\QRCodeForm-master\QRCodeForm\QRCodeForm\obj\Debug\QRCodeForm.exe
+E:\ProjectKas\KaspayCode\V2\QRCodeForm-master\QRCodeForm\QRCodeForm\obj\Debug\QRCodeForm.pdb

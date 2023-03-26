@@ -8,4 +8,5 @@
 
 赞助：kaspa:qpgd7dkdhqumjdjvvgl5pyksmlk8lyse2x30v46j69djnlvwy4k72d33yzzn2
 
-![kaslogo](https://user-images.githubusercontent.com/122758686/227780654-cb68a908-d907-4717-b85d-7ebb18ffb2c6.jpg)
+![sample](https://user-images.githubusercontent.com/122758686/227780733-d930b7e4-d9a0-457e-a4ac-8ded11668324.jpg)
+
